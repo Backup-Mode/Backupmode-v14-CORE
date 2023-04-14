@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Backupmode/"
+    "url": "git+https://github.com/Backup-Mode/Backupmode-v14-CORE"
   },
   "keywords": [
     "discord",
@@ -39,9 +39,9 @@
     "typescript": "^4.9.3"
   },
   "bugs": {
-    "url": "https://github.com/Androz2091/discord-backup/issues"
+    "url": "https://github.com/Backup-Mode/Backupmode-v14-COREissues"
   },
-  "homepage": "https://github.com/Androz2091/discord-backup#readme",
+  "homepage": "https://github.com/Backup-Mode/Backupmode-v14-CORE#readme",
   "directories": {
     "lib": "lib"
   },
